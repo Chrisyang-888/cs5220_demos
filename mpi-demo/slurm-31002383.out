@@ -1,4 +1,0 @@
-slurmstepd: error: execve(): /global/u2/x/xinyu494/cs5220_demos/mpi-demo/./demo-submit.x: No such file or directory
-slurmstepd: error: execve(): /global/u2/x/xinyu494/cs5220_demos/mpi-demo/./demo-submit.x: No such file or directory
-srun: error: nid004311: tasks 0-1: Exited with exit code 2
-srun: Terminating StepId=31002383.0
